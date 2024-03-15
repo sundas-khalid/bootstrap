@@ -1,0 +1,17 @@
+.container{
+    border: 3px  solid  black;
+}
+
+.nav{
+
+    background: darkcyan;
+}
+.nav-link{
+     color: #000;
+}
+.nav-link:hover, 
+.nav-link.active{
+
+      color: white;
+    background: sandybrown;
+}
