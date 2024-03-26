@@ -53,7 +53,7 @@ a {
     background: #c0392b;
 }
 #banner{
-    background:url('../template picture/banner.jpg')  no-repeat 0,0;
+    background:url('template picture/banner.jpg')  no-repeat 0,0;
     background-size:cover;
 }
 .banner-title{
